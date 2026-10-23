@@ -1,3 +1,11 @@
+## v1.1.9 (2026-10-23)
+<!-- lang:zh -->
+- 新增DJI MAVIC 3E鱼眼读写
+- 优化已知问题和功能
+<!-- lang:en -->
+-  Add DJI MAVIC 3E fisheye read-write
+- Optimize known issues and features
+
 ## v1.1.8 (2026-09-17)
 <!-- lang:zh -->
 - 优化WiFi设置界面显示问及窗口缩放
